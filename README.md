@@ -1,6 +1,4 @@
-## `README.md`
 
-````markdown
 # 🇮🇳 India Market Analyzer
 
 A FastAPI-based service that analyzes Indian market sectors and returns structured trade opportunity reports powered by Groq's Llama 3.3 AI model.
